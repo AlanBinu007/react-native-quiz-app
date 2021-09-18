@@ -7,7 +7,7 @@ A simple cross platform (iOS and Android) React Native quiz app. This example wa
 
 ### Installation
 
-- `git clone https://github.com/ReactNativeSchool/react-native-quiz`
+- `git clone https://github.com/ReactNativeSchool/react-native-quiz-app`
 - `yarn install`/`npm install`
 
 ### Running
